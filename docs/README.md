@@ -25,9 +25,13 @@ OctoAcme follows a five-phase approach to project delivery:
 Clear ownership and collaboration across key roles:
 
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk, and communications
-- **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
+- **Product Manager (PdM)**: Defines long-term product vision, strategy, and measures success
+- **Product Owner (PO)**: Manages product backlog, writes user stories, and ensures daily team clarity on requirements
 - **Developers**: Implement features, collaborate on design and testability
-- **QA/Testing**: Validate quality and acceptance criteria
+- **QA Lead**: Oversees quality assurance, develops test plans, and coordinates testing activities
+- **Release Manager**: Plans and manages deployment activities and release communications
+- **UX Designer**: Ensures user experience throughout the lifecycle and provides design guidance
+- **Business Analyst**: Bridges technical and business teams by eliciting and documenting requirements
 - **Stakeholders**: Provide inputs and approvals
 
 ### Risk Management & Communication
@@ -62,6 +66,8 @@ Explore our detailed process documentation:
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) - Deployment procedures and verification
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and iteration
 - [Roles & Personas](octoacme-roles-and-personas.md) - Detailed role definitions and responsibilities
+- [Role Responsibility Matrix](octoacme-role-responsibility-matrix.md) - RACI matrix showing ownership for key activities
+- [Onboarding Checklists](octoacme-onboarding-checklists.md) - Structured onboarding for key roles
 
 ## Quick Reference
 
@@ -73,7 +79,7 @@ Explore our detailed process documentation:
 - **Release & Deployment**: Standard checklists, verification, and communication
 - **Retrospective & Improvement**: Learnings, action items, and review
 - **Risk & Communication**: Lifecycle management and consistent stakeholder updates
-- **Roles**: PM, Product Manager, Developer, QA/testing, stakeholder definitions
+- **Roles**: PM, Product Manager, Product Owner, Developer, QA Lead, Release Manager, UX Designer, Business Analyst, and stakeholder definitions
 
 ## How to Use These Docs
 
